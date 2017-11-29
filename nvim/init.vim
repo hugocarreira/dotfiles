@@ -258,6 +258,9 @@ nnoremap <leader>v <C-w>v<C-w>l
 nnoremap <leader>m <C-w>s<C-w>j
 nnoremap <leader>d <C-w>q
 
+" Zoom
+nnoremap <leader>z <C-w>\|
+
 " Resize window
 noremap <leader>, <C-w><
 noremap <leader>. <C-w>>
