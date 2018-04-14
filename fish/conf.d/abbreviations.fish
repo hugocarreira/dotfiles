@@ -12,6 +12,8 @@ abbr grb 'git rebase'
 abbr gr 'git reset'
 abbr gst 'git stash'
 abbr gb 'git branch'
+abbr gpf 'git push --force-with-lease'
+abbr gd 'git diff'
 
 # Tmux abbreviations
 abbr ta 'tmux attach -t'
@@ -30,3 +32,5 @@ abbr ds 'docker stop'
 abbr dr 'docker rm'
 abbr dsp 'docker system prune'
 
+# Terminal
+abbr q 'quit'
