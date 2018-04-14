@@ -1,3 +1,0 @@
-function existe
-	exit
-end
