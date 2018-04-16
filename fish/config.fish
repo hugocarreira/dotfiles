@@ -4,8 +4,8 @@ if status --is-interactive
 end
 
 # Set go path
-set -x GOPATH $HOME/
-set -gx $GOPATH $PATH
+# set -x GOPATH $HOME/
+# set -gx $GOPATH $PATH
 
 set fish_greeting ""
 
