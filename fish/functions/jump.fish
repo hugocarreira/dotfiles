@@ -4,7 +4,7 @@ function jump
 
     if not test -d $dir
         mkdir $dir
-        git clone git@github.com:$project $dir
+        git clone --recursive git@github.com:$project $dir
     end
 
     cd $dir
