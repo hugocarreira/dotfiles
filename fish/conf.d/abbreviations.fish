@@ -14,12 +14,14 @@ abbr gst 'git stash'
 abbr gb 'git branch'
 abbr gpf 'git push --force-with-lease'
 abbr gd 'git diff'
+abbr g 'git'
 
 # Tmux abbreviations
 abbr ta 'tmux attach -t'
 abbr tl 'tmux list-sessions'
 abbr ts 'tmux new-session -s'
-abbr tkss 'tmux kill-session -t'
+abbr tk 'tmux kill-session -t'
+abbr t 'tmux'
 
 # Vim abbreviations
 abbr vim 'nvim .'
