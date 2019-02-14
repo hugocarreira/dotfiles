@@ -208,7 +208,8 @@ if has('autocmd')
 
     "Access colors present in 256 colorspace
     let base16colorspace=256
-    autocmd BufEnter * colorscheme base16-dracula
+    autocmd BufEnter * set termguicolors
+    autocmd BufEnter * colorscheme base16-ashes
   augroup END
 
   " Use javascript syntax for json files
