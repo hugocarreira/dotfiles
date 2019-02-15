@@ -1,6 +1,7 @@
 # Git abbreviations
 abbr ga 'git add'
 abbr gs 'git status'
+abbr gsh 'git show'
 abbr gc 'git commit'
 abbr gco 'git checkout'
 abbr gp 'git push'
@@ -32,7 +33,10 @@ abbr d 'docker'
 abbr dp 'docker ps'
 abbr ds 'docker stop'
 abbr dr 'docker rm'
+abbr dri 'docker rmi'
+abbr dvp 'docker volume prune'
 abbr dsp 'docker system prune'
 
 # Terminal
 abbr q 'quit'
+abbr j 'jump'
